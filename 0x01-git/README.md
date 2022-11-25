@@ -1,5 +1,5 @@
-Africa
-America
-Antartica
-Asia
-Europe
+Nigeria
+Ghana
+Mali
+Burkina Faso
+Guinea
